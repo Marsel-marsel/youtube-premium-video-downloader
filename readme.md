@@ -41,4 +41,4 @@ My javascript attempt. According to the youtube logic, this script must do the f
 
 ## POC demo
 
-![](doc\yt-premium-download-poc.gif)
+![](doc/yt-premium-download-poc.gif)
