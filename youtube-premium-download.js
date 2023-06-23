@@ -10,7 +10,7 @@ request.addEventListener('success', () => {
   parseIndexTable();
 });
 
-// Stage I. Exctract info from url
+// Stage I. Exctract info from IndexedDB url
 function parseIndexTable(){
   const transaction = db.transaction("index", "readonly");
   const objectStore = transaction.objectStore("index");
